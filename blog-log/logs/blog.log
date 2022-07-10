@@ -1,0 +1,8 @@
+03-2022-16 [INFO ] org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:55) - Starting BlogApplicationTests using Java 1.8.0_271 on DESKTOP-CSSNGTV with PID 8408 (started by User in C:\WorkSpace\blog-api)
+03-2022-16 [INFO ] org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:663) - The following profiles are active: test
+03-2022-16 [INFO ] org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:61) - Started BlogApplicationTests in 15.295 seconds (JVM running for 18.384)
+03-2022-16 [INFO ] com.company.blog.service.impl.UserServiceImpl.sendEmail(UserServiceImpl.java:98) - Message successfully send
+03-2022-16 [INFO ] com.company.blog.service.impl.UserServiceImpl.sendEmail(UserServiceImpl.java:100) - Message successfully send
+03-2022-16 [INFO ] com.company.blog.service.impl.UserServiceImpl.sendEmail(UserServiceImpl.java:100) - Message successfully send
+03-2022-16 [INFO ] com.company.blog.service.impl.UserServiceImpl.sendEmail(UserServiceImpl.java:103) - Message successfully send
+03-2022-16 [INFO ] com.company.blog.service.impl.UserServiceImpl.sendEmail(UserServiceImpl.java:106) - Message successfully send
